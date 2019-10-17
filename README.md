@@ -1,2 +1,3 @@
-# new-and-improved-cv
-Better Improved CV
+# Personal CV Website 
+HTML - CSS - Bootstrap - Javascript 
+
