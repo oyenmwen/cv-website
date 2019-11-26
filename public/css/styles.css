@@ -18,7 +18,9 @@ h1, nav a{
 
 }
 
-
+.git,.link{
+  font-size:1.1em !important;
+}
 
 .intro p, .iconify{
   color: #585858;
@@ -161,7 +163,7 @@ footer a{
 @media only screen and (max-width: 800px) {
 .intro embed{
   margin-top: 15%;
-  width: 90%;
+  width: 65%;
   height: auto;
 }
 
@@ -174,6 +176,18 @@ iframe,.cc{
 }
 .intro h4{
   padding
+}
+
+.iconify{
+  font-size:2em ;
+}
+
+.git,.link{
+  font-size:1em !important;
+}
+
+.arrow{
+  font-size:1.5em ;
 }
 
 .project{
