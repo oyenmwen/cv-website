@@ -1,6 +1,6 @@
-html,body{
+html,body,.bg-light{
 
-  background-color: #2c2d2d;
+  background-color: #2c2d2d !important;
 }
 
 h1,h2,h3,h4,h5,hr, nav a, .intro p, .a p,footer a,footer p{
